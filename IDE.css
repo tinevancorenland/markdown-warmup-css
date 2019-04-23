@@ -1,3 +1,96 @@
-body {font-family: "roboto", sans-serif;
-      color: #122640}
-.container {width: 95%; margin: 0; background-color: #f2d0a7;}
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body { 
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #122640;
+  background-color:#efefef;
+  font-size: 14px;
+  padding: 10px;
+  line-height: 1.5;
+}
+
+header {
+  font-family: 'roboto','Courier New', Courier, monospace;
+  font-size: 24px;
+  font-weight: bold;
+  color: #1B72BF;
+  background-color: white;
+  padding: 5px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+h1 {
+  font-family: 'roboto','Courier New', Courier, monospace;
+  font-size: 24px;
+  font-weight: bold;
+  color: #1B72BF;
+  background-color: white;
+  padding: 5px;
+  border-radius: 20px;
+}
+
+.content {
+  background-color: white;
+  border-radius: 20px;
+  padding-bottom: 5px;
+}
+
+blockquote {
+  width:300px;
+  padding: 25px;
+  margin: auto;
+  border: 1px solid #1B72BF;
+}
+
+a:link{
+  color: #1B72BF;
+}
+
+a:visited{
+  color: #1B72BF;
+}
+
+a:link, a:visited {
+  background-color: #122640;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  background-color: #1B72BF;
+}
+
+table {
+  border-collapse: collapse;
+  width: 90%;
+  border: 1px solid #122640;
+  padding: 5px;
+  margin-left: 20px;
+}
+
+table, th, td {
+  border: 1px solid #122640;
+}
+
+td {
+  width: 50%;
+}
+
+th, tr {
+  height: 40px;
+}
+
+ul li {
+  padding: 5px;
+}
+
+ol li {
+  padding: 5px;
+}
