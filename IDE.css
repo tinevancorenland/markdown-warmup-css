@@ -1,7 +1,3 @@
-h1 {
-    font-family: "Futura bold", monospace;
-  }
-
-p {
-    font-family: Souvenir, sans-serif;
-  }
+body {font-family: "roboto", sans-serif;
+      color: #122640}
+.container {width: 95%; margin: 0; background-color: #f2d0a7;}
