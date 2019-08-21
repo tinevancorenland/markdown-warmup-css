@@ -25,5 +25,5 @@ Let's spice things up with some CSS!
 
 ## Result
 
-(Check the result here)[https://tinevancorenland.github.io/markdown-warmup-css/]
+[Check the result here](https://tinevancorenland.github.io/markdown-warmup-css/)
 
